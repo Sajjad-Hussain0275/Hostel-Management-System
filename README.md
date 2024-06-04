@@ -1,1 +1,1 @@
-# Hostel-Management-System
+The Hostel Management System (HMS) is a database project designed to manage the daily operations of a hostel. The system allows administrators to store and manage information about hostels, students, staff, rooms, meal plans, complaints, and payments. 
